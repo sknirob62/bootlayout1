@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.heading {
+  padding: 20px 0;
+  margin-bottom: 30px;
+  text-align: center;
+  color: ;
+  background-color: rgb(255, 234, 0);
+}
+.header,
+.hero,
+.body,
+.bar,
+.footer {
+  padding: 10px 0 40px;
+  margin-bottom: 20px;
+  background-color: rgb(51,51,0);
+}
+.common-title {
+  text-align: center;
+}
+.box h4 {
+  text-align: center;
+  line-height: 20vh;
+}
+.box {
+  min-height: 20vh;
+  border: 1px solid rgb(44, 22, 153);
+  background-color: rgb(223, 255, 0);
+}
+
+.green {
+  background-color: rgb(173,255,47);
+}
+.orange {
+  background-color: rgb(242, 176, 54);
+}
